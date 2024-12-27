@@ -1,0 +1,15 @@
+h1{
+  text-align: center;
+  font-family: sans-serif;
+}
+p{
+  text-align: center;
+}
+body{
+background-color:#4A4A4A;
+}
+div{
+  color: #fff;
+  background: #4A4A4A;
+  margin-top:15px;
+}
